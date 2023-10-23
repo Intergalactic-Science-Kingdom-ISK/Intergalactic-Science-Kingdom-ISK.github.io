@@ -1,0 +1,30 @@
+---
+title: Resensi Film Interstellar
+date: 2023-10-23 17:25:30 +0700
+categories: [Review Film, Science Fiction]
+tags: Interstellar     # TAG names should always be lowercase
+math: true
+---
+
+# Rekomendasi untuk Pembaca
+Film Interstellar merupakan film yang sangat erat kaitanya dengan suatu bidang di fisika. Oleh karena itu untuk mengerti dan mendalami arti dan cerita yang disajikan kepada kita dalam film ini, diperlukan pengetahuan mendasar mengenai bidang fisika ini. Bidang yang dimaksud adalah relativitas khusus. Adanya pengetahuan secara umum mengenai relativitas khusus dapat mempermudah para penonton untuk mengerti alur cerita dari film ini.
+Selain relativitas khusus, para penonton juga wajib mengerti beberapa fisika dasar sebelum menonton film ini. Fisika dasar diperlukan agar para penonton dapat mengerti beberapa hal kecil yang ada dalam film ini. Sebuah contoh yang ada di film ini yang menunjukkan penggunaan fisika dasar adalah pada saat stasiun luar angkasa diputar gravitasi buatan dalam stasiun luar angkasa tersebut.
+
+# Ringkasan Film
+Cerita dari film ini dimulai oleh seorang pilot nasa yang menjadi petani karena krisis makanan yang dialami umat manusia di masa yang akan mendatang. Mantan pilot ini bernama Cooper. 
+Cooper merupakan seorang ayah dari 2 orang anaknya yaitu dan Murphy dan Tom. Murphy merupakan seorang anak yang pilihan di sekolahnya. Sedangkan Tom merupakan anak laki-laki yang yang tidak jauh berbeda dengan anak laki-laki yang lain. setelah pulang dari pertemuan guru dan murid di sekolah, Donald, yang merupakan mertua dari Cooper memanggil Cooper karena adanya sebuah anomali yang terjadi pada traktor-traktor milik Cooper.
+Selain anomali yang terjadi pada traktor-traktor tersebut, dalam kamar Murphy ada juga anomali lain yang terjadi. Murphy menyebut anomali ini sebagai hantu. Tetapi, karena ayahnya yang tidak percaya kepada hantu dan Murphy yang bersikeras kepada ayahnya mengatakan bahwa anomali tersebut adalah hantu, maka ayahnya menyuruh Murphy untuk mengumpulkan data dan menyimpulkan apa yang terjadi.
+Setelah mengumpulkan beberapa banyak data dan adanya banyak anomali  yang terjadi pada kamar Murphy, sang ayah pun ikut mencari data pada anomali yang terjadi. Setelah begadang semalaman, Cooper pun sadar bahwa anomali tersebut mengandung sebuah koordinat. Setelah itu karena rasa penasaran Cooper dan Murphy ke koordinat tersebut.
+Ternyata koordinat tersebut adalah tempat nasa membuat roket untuk manusia menjelajahi planet baru yang terdapat di di sebuah tata surya yang terletak jauh dari tata surya kita. Untuk pergi ke sana mereka memanfaatkan sebuah lubang cacing yang terdapat di dekat Saturnus yang tiba-tiba muncul.
+Singkat cerita Cooper ikut pergi menjelajahi tata surya misterius tersebut. Hal ini dilakukan secara terpaksa untuk melindungi generasi Murphy punah karena kehabisan makanan di bumi. Setelah itu, Murphy dan seorang Professor di NASA selama bertahun-tahun berusaha menyelesaikan sebuah persamaan gravitasi yang memungkinkan manusia untuk pergi meninggalkan bumi. Tetapi mereka butuh sebuah data untuk menyelesaikan persamaan tersebut, yaitu data kuantum dari sebuah singularitas yang terdapat di dalam lubang hitam.
+Selama bertahun-tahun Cooper pergi dari bumi. Hal ini bahkan diperparah oleh pergeseran waktu akibat relativitas khusus yang diprediksi oleh Einstein. Setelah pergi menjelajahi beberapa planet, Cooper the terpaksa mengorbankan dirinya untuk seorang kru yang ada di stasiun bersama-sama dengan dia. Cooper pun jatuh dan masuk ke dalam lubang hitam ditemani oleh sebuah robot. Ternyata saat masuk ke dalam lubang hitam, Cooper masuk ke dalam sebuah ruang 4 dimensi. Dalam ruang 4 dimensi mini Cooper dapat melihat waktu secara fisik. Setelah mencoba berkomunikasi dengan robotnya, Cooper pun mengirimkan data kuantum yang ada di dalam lubang hitam kepada Murphy dewasa yang ada di bumi.
+Hal ini memungkinkan Murphy untuk menyelesaikan persamaan gravitasi yang memungkinkan umat manusia untuk pergi meninggalkan bumi secara massal. Setelah itu Cooper dibawa kembali oleh makhluk misterius yang membuat ruangan 4 dimensi yang didiami Cooper. Cooper pun dibawa kembali ke Saturnus dan bertemu kembali dengan anaknya, Murphy yang sekarang lebih tua daripada dirinya sendiri.
+
+# Kelebihan dan Kekurangan Film
+Film ini merupakan film yang memenangkan banyak penghargaan. Penghargaan yang dimenangkan oleh film ini adalah The Academy Award for Best Visual Effects, Empire Awards for Best Director, Empire awards for Best Film, Criticts’ Choice MVP Awards, dan masih banyak penghargaan lain. Banyaknya penghargaan yang dimenangkan oleh film ini mencerminkan kualitas film yang disajikan kepada para penonton.
+Selain dari kualitas film yang sangat baik, film ini juga memberikan para pencinta sains hiburan. Hiburan ini didapatkan dari alur cerita, efek visual, dan banyak referensi yang terkait dengan sains di dunia nyata yang dihadirkan dalam film ini. Adanya sebuah film sains fiksi yang bagus ini membuat para pecinta sains sangat menyukai film ini. Tidak hanya itu, film ini juga diminati oleh banyak orang yang tidak mendalami sains, tetapi dapat memahami alur cerita dari film ini.
+Kelemahan dari film ini ada pada beberapa plot hole yang dimiliki oleh film ini. Mungkin ada penonton yang pernah berpikir untuk membuat NASA mengirimkan robot daripada manusia untuk melakukan penjelajahan ke luar angkasa. Hal ini dapat meringankan sumber daya untuk menopang kehidupan manusia selama perjalanan ke Saturnus. Dengan begitu, perlengkapan sains yang lebih banyak dapat dibawa untuk mencari data di planet yang akan ditinggali manusia. JIka para produser tidak menyukai cerita tersebut, cerita lain yang dapat ditampilkan dalam film ini adalah untuk para makhuk dari masa depan yang menaruh lubang hitam di dekat Saturnus untuk langsung memberi persamaan gravitasi kepada Murph untuk menyelamatkan manusia. Intinya, ada alur cerita lain yang tidak terlalu melawan logika yang dapat diceritakan dalam film ini.
+
+$$
+E=mc^2
+$$
