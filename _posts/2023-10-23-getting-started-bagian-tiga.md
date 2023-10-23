@@ -1,7 +1,7 @@
 ---
 title: "Getting Started: Bagian Tiga"
 author: Darrel
-date: 2023-10-23 21:05:30 +0700
+date: 2023-10-23 22:36:30 +0700
 categories: [Blogging, Tutorial]
 pin: true
 tags: [getting started]
