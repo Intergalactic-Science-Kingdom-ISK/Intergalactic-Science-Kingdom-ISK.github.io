@@ -86,6 +86,18 @@ $$
 
 Jadi, hasilnya adalah $\frac{1}{16}$
 
+### Contoh 6
+Berapakah hasil $(2+7)^3$? Pada dasarnya idenya sama. Dalam kasus ini, kita perlu mengerjakan yang di dalam kurung terlebih dahulu, kemudian kita pangkatkan.
+
+$$
+\begin{align*}
+(2+7)^4  & = (9)^4 \\
+    & = (9) \cdot (9) \cdot (9) \cdot (9)\\
+    & = 81 \cdot 81 \\
+    & = 6561
+\end{align*}
+$$
+
 ## Sifat Eksponen (bagian pertama)
 Perhatikan contoh 3 dan contoh 4. Ketika kamu melakukan pangkat pada `bilangan negatif` dengan pangkat yang bernilai `genap`, maka hasilnya akan selalu `positif`. Sedangkan, jika kamu melakukan pangkat pada `bilangan negatif` dengan pangkat yang bernilai `ganjil`, maka hasilnya akan selalu `negatif`. Secara matematis, berlaku:
 
