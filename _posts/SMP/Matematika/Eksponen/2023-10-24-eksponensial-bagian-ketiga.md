@@ -100,7 +100,8 @@ Tahapan untuk mengerjakan soal diatas adalah sebagai berikut:
 1. Bersyukur. Tahapan ini merupakan tahapan yang saya dapati ketika belajar dari salah satu dosen saya. Kita perlu bersyukur karena kita diberikan soal ini dan kita dapat melatih kemampuan kita. 
 2. Perhatikan bagian mana saja yang dapat kita pecah menggunakan sifat-sifat dan definisi-definisi yang kita miliki. Dalam kasus ini, kita bisa melihat bahwa pangkat yang ditambah bisa dipecah. Kita juga bisa lihat bahwa $6=2\cdot 3$
 3. Kerjakan.
-
+<details close>
+<summary> Click to see answer</summary>
 $$
 \begin{align*}
 \frac{3^{2x+1} \cdot 2^{x-2}}{6^{x-1}} & = \frac{3^{2x+1} \cdot 2^{x-2}}{(2\cdot 3)^{x-1}}\\
@@ -112,6 +113,7 @@ $$
 &= \frac{3^{3x}}{2}
 \end{align*}
 $$
+</details>
 
 ## Contoh 2
 Selanjutnya, mari kita coba mengerjakan soal yang melibatkan akar. Sederhanakanlah ekspresi berikut:
@@ -120,7 +122,8 @@ $$\sqrt[3]{a^6} \cdot \sqrt[4]{a^9}$$
 
 Untuk mengerjakan soal berikut, kita bisa mengikuti tahapan-tahapan yang ada pada soal contoh 1. Mengasumsikan kalian sudah mengerjakan tahapan pertama, kita bisa langsung menggunakan sifat-sifat dan definisi yang kita miliki sebagai berikut:
 
-
+<details close>
+<summary> Click to see answer</summary>
 $$
 \begin{align*}
 \sqrt[3]{a^6} \cdot \sqrt[4]{a^9} &= a^{\frac{6}{3}} \cdot a^{\frac{9}{4}}\\
@@ -137,6 +140,7 @@ $$
 &= a^6\sqrt{a}
 \end{align*}
 $$
+</details>
 
 Setelah melihat kedua contoh soal tersebut, saya rasa kalian sudah siap untuk menyelesaikan ketiga soal berikut. Cobalah untuk kalian kerjakan
 
