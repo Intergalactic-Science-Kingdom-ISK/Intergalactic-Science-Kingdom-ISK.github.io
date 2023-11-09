@@ -66,7 +66,7 @@ Jika kamu ingin melihat hasil tulisanmu, kamu bisa menuliskan `jekyll serve` pad
 Untuk menghentikan melihat hasil tulisan yang telah kamu buat, kamu bisa melakukan `Ctrl+C` untuk menghentikan browser yang kamu miliki untuk menampilkan hasil blog yang kamu buat. 
 
 ### 4 Mantra git: Pull, Add, Commit, Push
-Istilah `4 GIT MANTRAS: pull, add, commit, push` merupakan istilah yang sering dosen saya gunakan pada website salah satu mata kuliah kami yaitu [Operating System]('https://os.vlsm.org/'). Hal-hal merupakan tahapan yang perlu dilakukan untuk melakukan `deploy` terhadap blog yang barusan kamu buat. 
+Istilah `4 GIT MANTRAS: pull, add, commit, push` merupakan istilah yang sering dosen saya gunakan pada website salah satu mata kuliah kami yaitu [Operating System](https://os.vlsm.org/). Hal-hal merupakan tahapan yang perlu dilakukan untuk melakukan `deploy` terhadap blog yang barusan kamu buat. 
 
 1. Pada terminal `editor` yang kamu miliki ketikkan git pull pada direktori tempat blog ini berada pada `local machine` milikmu
 2. Kemudian ketikkan `git pull`. Hal ini adalah untuk 'menarik' pembaharuan yang telah orang yang _push_pada github. Ini dilakukan supaya _file_ pada _local machine_ merupakan file yang paling baru
