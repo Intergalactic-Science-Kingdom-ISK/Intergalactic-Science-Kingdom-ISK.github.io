@@ -85,4 +85,4 @@ Supaya lebih mantap, ada beberapa soal yang dapat kalian kerjakan supaya kalian 
 14. $3^{-5}$
 15. Apakah bisa $0^{-6}?$ Jawab dengan bisa atau tidak.
 
-Setelah kamu mengerjakan soal-soal yang telah dibahas diatas, kamu bisa mengecek jawabanmu dengan melanjutkan membaca [blog selanjutnya](). Selamat, kamu telah menyelesaikan beberapa soal latihanmu!
+Setelah kamu mengerjakan soal-soal yang telah dibahas diatas, kamu bisa mengecek jawabanmu dengan melanjutkan membaca [blog selanjutnya](/posts/eksponensial-bagian-ketiga/). Selamat, kamu telah menyelesaikan beberapa soal latihanmu!

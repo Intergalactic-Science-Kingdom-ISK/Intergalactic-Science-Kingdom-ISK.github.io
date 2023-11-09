@@ -150,4 +150,4 @@ Secara umum, sifat ini dapat dibuktikan seperti ini: jika sebuah bilangan negati
 Sedangkan, jika sebuah bilangan negatif dipangkatkan dengan `bilangan ganjil`, perkalian bilangan-bilangan negatif memiliki pasangan `kecuali` 1 bilangan lain. 1 bilangan lain inilah yang tidak memiliki pasangan yang akan menyebabkan hasilnya menjadi negatif.
 
 #### Penutup
-Selamat, kamu sudah membuktikan sifat eksponen pada bagian pertama ini. Kami harap usahamu untuk mengerti materi yang diberikan pada blog ini tidak sia-sia. Selanjutnya, mari kita belajar mengenai sifat-sifat ekponen yang lain pada blog ekponensial bagian kedua.
+Selamat, kamu sudah membuktikan sifat eksponen pada bagian pertama ini. Kami harap usahamu untuk mengerti materi yang diberikan pada blog ini tidak sia-sia. Selanjutnya, mari kita belajar mengenai sifat-sifat ekponen yang lain pada blog [ekponensial bagian kedua](/posts/eksponensial-bagian-kedua/).
