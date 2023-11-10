@@ -8,7 +8,7 @@ math: True
 ---
 
 ## Prasyarat
-Kami berharap kamu sudah mempelajari dan mengerti mengenai apa yang diajarkan pada [Eksponensial: Bagian Kedua]() yaitu tentang definisi dan contoh eksponensial. Jika belum, kami harap kamu mempelajari terlebih dahulu apa yang dibahas pada bagian sebelumnya.
+Kami berharap kamu sudah mempelajari dan mengerti mengenai apa yang diajarkan pada [Eksponensial: Bagian Pertama](/posts/eksponensial-bagian-pertama/) yaitu tentang definisi dan contoh eksponensial. Jika belum, kami harap kamu mempelajari terlebih dahulu apa yang dibahas pada bagian sebelumnya.
 
 Untuk menguji bahwa kamu sudah siap untuk membaca blog ini, ***pastikan bahwa kamu dapat mengerjakan soal-soal dibawah ini dengan baik***.
 1. $6^3$

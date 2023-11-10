@@ -10,8 +10,7 @@ tags: [getting started]
 ## Tutorial Dengan Video
 Jika kamu lebih nyaman melihat tutorial bagian ketiga ini dengan video, kamu bisa melakukannya dengan menonton video ini:
 
-{% include embed/youtube.html id='sh_epdIUWes' %}
-
+{% include embed/youtube.html id='DgCllXp1IDs' %}
 
 
 ## Prasyarat
