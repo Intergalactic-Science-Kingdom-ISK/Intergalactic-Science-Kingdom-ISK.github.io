@@ -12,6 +12,7 @@ Jika kamu lebih nyaman melihat tutorial bagian ketiga ini dengan video, kamu bis
 
 {% include embed/youtube.html id='DgCllXp1IDs' %}
 
+Jagan lupa untuk melakukan [Pull, Add, Commit, Push](#4-mantra-git-pull-add-commit-push) ya setelah itu.
 
 ## Prasyarat
 
