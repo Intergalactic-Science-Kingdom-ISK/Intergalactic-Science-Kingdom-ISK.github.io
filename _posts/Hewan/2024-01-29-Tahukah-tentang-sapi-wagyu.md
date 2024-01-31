@@ -46,6 +46,7 @@ Apa kalian percaya memakan daging wagyu yang lembut, manis, dan empuk tersebut a
 ## PERHITUNGAN KUALITAS DAGING WAGYU
 
 ![picture](<../../assets/blog/Perhitungan Kualitas Daging Sapi Wagyu.jpg>)
+
 Sumber : zhuanlan.zhihu.com
 
 Istilah A5 ini tidak sembarangan dilabelkan ke semua daging wagyu. Daging wagyu dapat dinilai kualitasnya berdasarkan _quality grade_, _yield grade_, dan _Beef Marbling System_. Yield grade dihitung berdasarkan rasio jumlah daging dibagi berat keseluruhan hewan yang hasilnya dapat disimbolkan sebagai huruf A-C. Huruf A (rasio >72%), huruf B (rasio 69%-72%), dan huruf C (rasio <69%), dengan A berarti daging berkualitas paling bagus. _Quality grade_ memiliki 4 kriteria yaitu; tekstur, warna lemak, _marbling_, dan warna daging yang hasilnya dapat disimbolkan angka 1-5, dengan 5 untuk daging berkualitas paling bagus. Maka dari itu jika menjumpai di pasaran, daging A5 artinya daging wagyu tersebut sangat bagus dan terbaik [**6**]. _Beef Marbling System_ (BMS). Penilaian kualitas daging sapi ditentukan dari tingkat marbling atau lemak intramuskular yang membentuk pola marmer pada daging sapi. Skala BMS dari 1 -12, dengan 12 sebagai marbling tertinggi dan terbaik. 
